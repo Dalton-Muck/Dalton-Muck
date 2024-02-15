@@ -29,6 +29,10 @@
 
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular&logoColor=white)
 
+### Database
+
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQlite&logoColor=white)
+
 ### Enviroment
 
 ![Windows](https://img.shields.io/badge/Windows_11-darkblue?style=for-the-badge&logo=Windows&logoColor=white)
