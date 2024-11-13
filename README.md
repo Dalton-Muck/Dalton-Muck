@@ -1,5 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+###YIPIEE
+
 ## 🙋‍♂️About me
 
 🎓My name is Dalton Muck, I am a **Software Developer**(specializing in **Angular applications**) with a focus on creating safe user-friendly web applications. I am also pursuing my undergraduate degree in **Computer Science & Engineering** and plan on graduating in early **2026**.
