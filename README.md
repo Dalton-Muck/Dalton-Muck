@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Dalton(|-Muck)|https://github.com/Dalton-Muck)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://github.com/Dalton-Muck)"/>](https://github.com/Dalton-Muck)
 ## 🙋‍♂️About me
 
 🎓My name is Dalton Muck, I am a **Software Developer**(specializing in **Angular applications**) with a focus on creating safe user-friendly web applications. I am also pursuing my undergraduate degree in **Computer Science & Engineering** and plan on graduating in early **2026**.
