@@ -4,7 +4,7 @@
 
 🎓My name is Dalton Muck, I am a **Software Developer**(specializing in **Angular applications**) with a focus on creating safe user-friendly web applications. I am also pursuing my undergraduate degree in **Computer Science & Engineering** and plan on graduating in early **2026**.
 
-💻I enjoy working at my part-time internship during the school year. In this past year, I have worked with a team to meet weekly deadlines to enhance and modify existing campus software programs like the Information Technologies home page. I aim to get at least 2 more internships before getting my undergraduate degree in either Software Development, or Data analytics where I can focus on Cyber Security. 
+💻I enjoy working at my part-time internship during the school year, where I collaborate with a team to meet weekly deadlines. Over the past year, I have contributed to enhancing and modifying existing campus web applications. Additionally, I am passionate about working on projects outside of the classroom, leveraging my background in Artificial Intelligence and Data Analytics. Many of these projects are showcased in this repository.
 
 🥏Outside of my studies I have enjoyed working as a licensed softball and basketball official which is where I have been working for 5 years to help avoid student loans. When I am not completing coursework or working I enjoy time with my friends on the club ultimate frisbee team. I also enjoy kayaking, running, and hiking.
 
